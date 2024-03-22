@@ -1,0 +1,6 @@
+COLUNAS
+
+col s12 m12 l6 xl6
+
+
+col s12 m12 l12 xl12
